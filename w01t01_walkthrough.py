@@ -120,9 +120,9 @@ The title should be centred by eye — count your spaces.
 """
 
 # your code here
-print("="*20)
+print("="*30)
 print("    RECORD CHECK")
-print("="*20)
+print("="*30)
 
 """---
 ## Same idea, three fields
