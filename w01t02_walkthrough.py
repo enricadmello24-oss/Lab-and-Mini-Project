@@ -39,7 +39,7 @@ Store your own name in `student_name` and your course in `course`, then print bo
 
 student_name='Enrica'
 course='AI and Data Science'
-print(student_name,'has taken',course,'Course')
+print(student_name,course)
 
 """---
 ## 2. Types
