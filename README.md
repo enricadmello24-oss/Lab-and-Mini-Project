@@ -1,4 +1,3 @@
-# Python-Portfolio
 # Python Programming Labs 
 
 This repository contains my Python programming lab exercises and mini-projects completed as a first-year BSc (Hons) Artificial Intelligence and Data Science student at Middlesex University Dubai.
